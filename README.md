@@ -22,7 +22,8 @@ When I'm not coding, you'll find me at the gym, gaming, or diving into new topic
 
 📞 **Phone:** +52 331 150 1793
 
-🔗 **LinkedIn:** [Enrique Zepeda](https://www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-adair-zepeda-zambrano/)
+
 <br />
 <br />
 **Languages and Tools:**
