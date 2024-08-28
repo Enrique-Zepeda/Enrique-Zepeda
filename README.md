@@ -24,7 +24,7 @@ When I'm not coding, you'll find me at the gym, gaming, or diving into new topic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-adair-zepeda-zambrano/)
 
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 
 ## Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,7 +46,7 @@ When I'm not coding, you'll find me at the gym, gaming, or diving into new topic
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**GitHub Stats:**
+<h2>GitHub Stats</h2>
 
 ![Enrique Zepeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique-Zepeda&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000)
 
