@@ -26,7 +26,7 @@ When I'm not coding, you'll find me at the gym, gaming, or diving into new topic
 
 <h2>Languages and Tools</h2>
 
-<h3>Frameworks<h3/>
+## Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Languages
