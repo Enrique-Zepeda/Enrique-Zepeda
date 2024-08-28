@@ -1,5 +1,4 @@
 <h2 title="hehehe">Hey 👋, I'm Enrique Zepeda!</h2>
-<br />
 **About Me!**
 
 👨🏽‍💻 Hi! I'm Enrique Zepeda, a passionate Computer Engineering student at Ingeniería Informática en el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI). I have a strong interest in web development.
