@@ -1,14 +1,5 @@
 <h2 title="hehehe">Hey 👋, I'm Enrique Zepeda!</h2>
 
-<a href="https://www.linkedin.com/in/enrique-adair-zepeda-zambrano/">
-  <img
-    align="left"
-    alt="Zepeda's LinkedIn"
-    width="24px"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-
 <br />
 
 **About Me!**
