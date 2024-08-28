@@ -24,7 +24,7 @@ When I'm not coding, you'll find me at the gym, gaming, or diving into new topic
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-adair-zepeda-zambrano/)
 
-<h2>Languages and Tools</h2>
+<h2 style="border-bottom: none;">Languages and Tools</h2>
 
 ## Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
