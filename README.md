@@ -17,9 +17,12 @@
 <br/>
 When I'm not coding, you'll find me at the gym, gaming, or diving into new topics to expand my knowledge. I'm always eager to learn and grow, and I'm excited about the possibility of contributing to innovative projects and collaborating with like-minded professionals.
 
-📫 Email me at [enriquezepeda60z@gmail.com](mailto:enriquezepeda60z@gmail.com).
-<br/>
-📞 Phone: [+52 331 150 1793](tel:+523311501793)
+## Contact Me
+📫 **Email:** [enriquezepeda60z@gmail.com](mailto:enriquezepeda60z@gmail.com)
+
+📞 **Phone:** +52 331 150 1793
+
+🔗 **LinkedIn:** [Enrique Zepeda](https://www.linkedin.com/feed/)
 <br />
 <br />
 **Languages and Tools:**
