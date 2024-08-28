@@ -16,6 +16,7 @@
 👨🏽‍💻 Hi! I'm Enrique Zepeda, a passionate Computer Engineering student at Ingeniería Informática en el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI). I have a strong interest in web development, and I'm constantly exploring new technologies to build engaging and efficient digital experiences. When I'm not coding, you'll find me at the gym, gaming, or diving into new topics to expand my knowledge. I'm always eager to learn and grow, and I'm excited about the possibility of contributing to innovative projects and collaborating with like-minded professionals.
 
 📫 Email me at [enriquezepeda60z@gmail.com](mailto:enriquezepeda60z@gmail.com).
+<br/>
 📞 Phone: [+523311501793](tel:+523311501793)
 **Languages and Tools:**
 
