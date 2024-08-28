@@ -27,19 +27,9 @@
 
 **GitHub Stats:**
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Enrique-Zepeda&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000"
-  alt="Enrique Zepeda's GitHub Stats"
-/>
-<img
-  align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Enrique-Zepeda&count_private=true&theme=radical"
-  alt="Enrique Zepeda's GitHub Streak Stats"
-/>
-<img
-  align="center"
-  width="500"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Zepeda&count_private=true&theme=radical"
-  alt="Enrique Zepeda's Top Languages"
-/>
+![Enrique Zepeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique-Zepeda&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000)
+
+![Enrique Zepeda's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Enrique-Zepeda&count_private=true&theme=radical)
+
+![Enrique Zepeda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Zepeda&count_private=true&theme=radical)
 
