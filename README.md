@@ -17,7 +17,7 @@
 
 📫 Email me at [enriquezepeda60z@gmail.com](mailto:enriquezepeda60z@gmail.com).
 <br/>
-📞 Phone: [+52 33 11 50 17 93](tel:+523311501793)
+📞 Phone: [+52 331 150 1793](tel:+523311501793)
 **Languages and Tools:**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
