@@ -9,9 +9,9 @@
 <h1></h1>
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
-  <a href="mailto:enriquezepeda60z@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=enriquezepeda60z@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/enrique-adair-zepeda-zambrano" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
