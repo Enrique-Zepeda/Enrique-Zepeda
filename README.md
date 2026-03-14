@@ -1,44 +1,119 @@
-<h2 title="hehehe">Hey 👋, I'm Enrique Zepeda!</h2>
-**About Me!**
+<h1 align="center">Hi 👋 I'm <span style="color: #6366f1">Enrique Zepeda</span></h1>
 
-👨🏽‍💻 Hi! I'm Enrique Zepeda, a passionate Computer Engineering student at Ingeniería Informática en el Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI). I have a strong interest in web development.
-<br/>
-When I'm not coding, you'll find me at the gym, gaming, or diving into new topics to expand my knowledge. I'm always eager to learn and grow, and I'm excited about the possibility of contributing to innovative projects and collaborating with like-minded professionals.
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-## Contact Me
-📫 **Email:** [enriquezepeda60z@gmail.com](mailto:enriquezepeda60z@gmail.com)
+<p align="center">
+  Building <b>high-performance web & mobile applications</b> with clean architecture, beautiful UI and secure backend logic.
+</p>
 
-📞 **Phone:** +52 331 150 1793
+<h1></h1>
+<h3 align="center">🤝 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:enriquezepeda60z@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enrique-adair-zepeda-zambrano" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1bo0CAwZAJV93cdTcFviTIAh_SczJIBEy/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-0284C7?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-adair-zepeda-zambrano/)
-<hr/>
-<h3>Languages and Tools</h3>
+---
+## 👨‍💻 About Me
 
-## Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+✨ Software Engineer based in **Guadalajara, México**  
+⚡ Passionate about building **real products**, optimizing performance and crafting delightful user experiences  
 
-## Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+🔐 Interested in **Cybersecurity · Real-Time Systems · Scalable Architectures**
+
+🎯 Currently focused on **Full-Stack JavaScript ecosystems & modern frontend engineering**
+
+🏋️ Outside tech: gym lifestyle, gaming, continuous learning & emerging technologies 
+
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764abc?style=for-the-badge&logo=redux&logoColor=white)
 
-## Databases
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-## Tools
-![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<h2>GitHub Stats</h2>
+---
 
-![Enrique Zepeda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enrique-Zepeda&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000)
+## ⭐ Featured Projects
 
-![Enrique Zepeda's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Enrique-Zepeda&count_private=true&theme=radical)
+### 🏋️ GymApp — Social Fitness Platform  
+Full-stack fitness tracking application designed with a product-focused mindset, combining real-time social interaction, performance analytics and modern design system practices.
 
-![Enrique Zepeda's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Zepeda&count_private=true&theme=radical)
+### ✨ Product Features
+- Real-time social activity feed (sessions, likes, comments, friend visibility)
+- Advanced workout tracking with KPIs and personal records
+- Intelligent routine recommendations based on user goals and experience
+- Secure authentication with fine-grained Row Level Security policies
+- Responsive experience optimized for mobile and desktop usage
 
+### 🎨 UI / UX Engineering
+- Built reusable component system using **shadcn/ui**
+- Dynamic multiple visual themes (e.g. Spotify-inspired palettes) with independent **light / dark mode variants**  
+- Smooth micro-interactions and animations with Framer Motion
+- Accessible and consistent design tokens across the application
+
+### ⚙️ Stack
+React · TypeScript · Redux Toolkit · Supabase · PostgreSQL · Tailwind CSS · shadcn/ui · Framer Motion · Realtime APIs
+<p>
+  <a href="https://gym-app-cucei.vercel.app/login" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LIVE_DEMO_-_GYM_APP-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Gym App"
+    />
+  </a>
+</p>
+
+---
+
+### 🎬 FilmApp — Mobile Movie App  
+**React Native · Firebase**
+
+✔ Authentication & real-time database  
+✔ Movie / series search integration  
+✔ Clean and responsive mobile UX  
+
+---
+
+### 🌐 MERN Full-Stack App  
+**MongoDB · Express · React · Node**
+
+✔ RESTful API architecture  
+✔ Authentication & protected routes  
+✔ Scalable component structure  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Enrique-Zepeda&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrique-Zepeda&layout=compact&theme=tokyonight"/>
+</p>
