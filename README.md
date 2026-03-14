@@ -93,21 +93,26 @@ React · TypeScript · Redux Toolkit · Supabase · PostgreSQL · Tailwind CSS �
 
 ---
 
-### 🎬 FilmApp — Mobile Movie App  
-**React Native · Firebase**
+### 🎬 FilmApp — Mobile Movie Discovery Platform  
 
-✔ Authentication & real-time database  
-✔ Movie / series search integration  
-✔ Clean and responsive mobile UX  
+Mobile application designed to deliver a fast and engaging movie discovery experience, enabling users to explore films, TV series and actors through real-time data integration and modern mobile interface patterns.
 
----
+### ✨ Product Features
+- Dynamic search engine for movies, series and actors with real-time content rendering  
+- Secure authentication flow with account registration, login persistence and password recovery  
+- Personalized user profile with saved preferences and activity insights  
+- Drawer-based navigation system enabling scalable multi-screen architecture  
+- Offline session persistence using local storage strategies  
 
-### 🌐 MERN Full-Stack App  
-**MongoDB · Express · React · Node**
+### 📱 Mobile UI Engineering
+- Implemented component-driven UI using **NativeBase** and **React Native Paper**  
+- Integrated **LottieFiles animations** to enhance user feedback and visual engagement  
+- Redesigned layouts focused on usability, touch ergonomics and content hierarchy  
+- Structured navigation architecture using **React Navigation (Stack + Drawer patterns)**  
+- Smooth gesture handling and screen transitions using **Reanimated & Gesture Handler**
 
-✔ RESTful API architecture  
-✔ Authentication & protected routes  
-✔ Scalable component structure  
+### ⚙️ Stack
+React Native · Expo · Firebase · NativeBase · React Native Paper · LottieFiles · React Navigation 
 
 ---
 
